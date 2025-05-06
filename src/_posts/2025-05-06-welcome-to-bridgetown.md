@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Your First Post on Bridgetown"
+title:  "First day at work!"
 date:   2025-05-06 11:51:27 +0200
 categories: updates
 ---
