@@ -1,26 +1,15 @@
 ---
 layout: post
-title:  "First day at work!"
-date:   2025-05-06 11:51:27 +0200
+title:  "Getting Started with Bridgetown"
+date:   2025-05-06 18:12:27 +0200
 categories: updates
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `bin/bridgetown start`, which launches a web server and auto-regenerates your site when a file is updated.
+Today we started working with the `Bridgetown` environment. Since we are just beginning our journey with Bridgetown during our internship, we first had to set up the right environment to start learning and working with this tool. We installed the following applications: `Ruby`, `Node.js`, `Yarn`, `Git`, `Bridgetown CLI`, and `Visual Studio Code`.
 
-Bridgetown requires blog post files to be named according to the following format:
+Because Bridgetown only works on `Linux` and `macOS`, and we are using `Windows`, we had to install `Ubuntu on Windows (WSL – Windows Subsystem for Linux)`. This was our first challenge – but we managed to overcome it quickly.
 
-`YEAR-MONTH-DAY-title.EXT`
+During the installation process, we encountered a few more issues – some applications didn’t work correctly at first. We had to deepen our knowledge and search for solutions in the documentation and online forums. In the end, we were able to configure everything properly.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `EXT` is the file extension representing the format used in the file (for example, `md` for Markdown). After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Despite the difficulties, we’re happy that we got to learn something completely new and solve real technical problems. It was a valuable lesson that will definitely benefit us in the future.
 
-Bridgetown also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Bridgetown docs](https://bridgetownrb.com/docs/) for more info on how to get the most out of Bridgetown. File all bugs/feature requests at [Bridgetown’s GitHub repo](https://github.com/bridgetownrb/bridgetown). If you have questions, you can ask them on [Bridgetown Discussions on GitHub](https://github.com/bridgetownrb/bridgetown/discussions).
