@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Getting Started with Bridgetown"
+title:  "Day 1: Getting Started with Bridgetown"
 date:   2025-05-06 18:12:27 +0200
 categories: updates
+author: grzegorz
 ---
-
+<!-- ![Installation screenshot](/images/day1-setup.png) -->
+<img src="/images/day1-setup.png" alt="Installation screenshot" class="screenshot" />
 Today we started working with the `Bridgetown` environment. Since we are just beginning our journey with Bridgetown during our internship, we first had to set up the right environment to start learning and working with this tool. We installed the following applications: `Ruby`, `Node.js`, `Yarn`, `Git`, `Bridgetown CLI`, and `Visual Studio Code`.
 
 Because Bridgetown only works on `Linux` and `macOS`, and we are using `Windows`, we had to install `Ubuntu on Windows (WSL – Windows Subsystem for Linux)`. This was our first challenge – but we managed to overcome it quickly.
