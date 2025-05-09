@@ -14,4 +14,3 @@ Because Bridgetown only works on `Linux` and `macOS`, and we are using `Windows`
 During the installation process, we encountered a few more issues – some applications didn’t work correctly at first. We had to deepen our knowledge and search for solutions in the documentation and online forums. In the end, we were able to configure everything properly.
 
 Despite the difficulties, we’re happy that we got to learn something completely new and solve real technical problems. It was a valuable lesson that will definitely benefit us in the future.
-sssjfnsdkjkjsdfhj
